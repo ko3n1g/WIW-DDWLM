@@ -1,4 +1,4 @@
 # WIW-DDWLM
 Where Is Waldo? - Die Deep Learning Waldo Machine
 
-Coming soon, the KI-based Waldo approach. 
+Coming soon, the AI-based Waldo approach. 
